@@ -1,7 +1,7 @@
 {
     "build_numbers": {
         "client": "273091",
-        "main": "1.0.9034",
+        "main": "1.0.9035",
         "native": "44780"
     },
     "useragents": {
