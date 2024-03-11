@@ -22,38 +22,6 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjEuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "121.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjEuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "121.0.0"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjIuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
@@ -86,6 +54,22 @@
                     "model": null
                 }
             },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjEuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "121.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.5.8 Chrome/120.0.6099.283 Electron/28.2.3 Safari/537.36": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNS44IENocm9tZS8xMjAuMC42MDk5LjI4MyBFbGVjdHJvbi8yOC4yLjMgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIyOC4yLjMiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
                 "browser": {
@@ -102,27 +86,11 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMy4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMy4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMy4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Firefox",
-                    "version": "123.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjAuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjEuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
-                    "version": "120.0.0"
+                    "version": "121.0.0"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -134,11 +102,11 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIxLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMy4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMy4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMy4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
-                    "name": "Edge",
-                    "version": "121.0.0"
+                    "name": "Firefox",
+                    "version": "123.0"
                 },
                 "os": {
                     "name": "Windows",
@@ -166,36 +134,20 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.6.6 Chrome/118.0.5993.159 Electron/27.1.3 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ3lwcmVzcy8xMy42LjYgQ2hyb21lLzExOC4wLjU5OTMuMTU5IEVsZWN0cm9uLzI3LjEuMyBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjI3LjEuMyIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Electron",
-                    "version": "27.1.3"
-                },
-                "os": {
-                    "name": "Linux",
-                    "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjAuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjAuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
                     "version": "120.0.0"
                 },
                 "os": {
-                    "name": "Windows",
-                    "version": "10"
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
                 },
                 "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
                 }
             },
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15": {
@@ -214,15 +166,15 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMDkuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.6.6 Chrome/118.0.5993.159 Electron/27.1.3 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ3lwcmVzcy8xMy42LjYgQ2hyb21lLzExOC4wLjU5OTMuMTU5IEVsZWN0cm9uLzI3LjEuMyBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjI3LjEuMyIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
                 "browser": {
-                    "name": "Chrome",
-                    "version": "109.0.0"
+                    "name": "Electron",
+                    "version": "27.1.3"
                 },
                 "os": {
-                    "name": "Windows",
-                    "version": "10"
+                    "name": "Linux",
+                    "version": ""
                 },
                 "device": {
                     "family": "Other",
@@ -262,27 +214,11 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4yLjEgU2FmYXJpLzYwNS4xLjE1IiwgImJyb3dzZXJfdmVyc2lvbiI6IjE3LjIuMSIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Safari",
-                    "version": "17.2.1"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTkuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTQuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
-                    "version": "119.0.0"
+                    "version": "114.0.0"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -292,54 +228,6 @@
                     "family": "Mac",
                     "brand": "Apple",
                     "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBPUFIvMTA3LjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEwNy4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Opera",
-                    "version": "107.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.13 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xMyBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Electron",
-                    "version": "25.8.1"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIwLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMC4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Edge",
-                    "version": "120.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
                 }
             },
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36": {
@@ -358,11 +246,107 @@
                     "model": null
                 }
             },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMjAuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "120.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTkuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "119.0.0"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMDkuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "109.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBPUFIvMTA3LjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEwNy4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Opera",
+                    "version": "107.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTYuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTYuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
                     "version": "116.0.0"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIxLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Edge",
+                    "version": "121.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4yLjEgU2FmYXJpLzYwNS4xLjE1IiwgImJyb3dzZXJfdmVyc2lvbiI6IjE3LjIuMSIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+                "browser": {
+                    "name": "Safari",
+                    "version": "17.2.1"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -390,22 +374,6 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.5.3 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNS4zIENocm9tZS8xMTQuMC41NzM1LjI4OSBFbGVjdHJvbi8yNS44LjEgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIyNS44LjEiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Electron",
-                    "version": "25.8.1"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMC4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
                 "browser": {
@@ -422,11 +390,27 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4wIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.5.3 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNS4zIENocm9tZS8xMTQuMC41NzM1LjI4OSBFbGVjdHJvbi8yNS44LjEgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIyNS44LjEiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Electron",
+                    "version": "25.8.1"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4zIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4zIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Safari",
-                    "version": "17.0"
+                    "version": "17.3"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -438,11 +422,27 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMi4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMi4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTcuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
-                    "name": "Firefox",
-                    "version": "122.0"
+                    "name": "Chrome",
+                    "version": "117.0.0"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OS4wLjQzODkuMTE0IFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiODkuMC40Mzg5IiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "89.0.4389"
                 },
                 "os": {
                     "name": "Windows",
@@ -486,43 +486,11 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4zIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4zIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIwLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMC4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
                 "browser": {
-                    "name": "Safari",
-                    "version": "17.3"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNi4xIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNi4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Safari",
-                    "version": "16.1"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OS4wLjQzODkuMTE0IFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiODkuMC40Mzg5IiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "89.0.4389"
+                    "name": "Edge",
+                    "version": "120.0.0"
                 },
                 "os": {
                     "name": "Windows",
@@ -534,15 +502,31 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.6.4 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ3lwcmVzcy8xMy42LjQgQ2hyb21lLzExNC4wLjU3MzUuMjg5IEVsZWN0cm9uLzI1LjguNCBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjI1LjguNCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4wIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
-                    "name": "Electron",
-                    "version": "25.8.4"
+                    "name": "Safari",
+                    "version": "17.0"
                 },
                 "os": {
-                    "name": "Linux",
-                    "version": ""
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMi4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMi4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Firefox",
+                    "version": "122.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
                 },
                 "device": {
                     "family": "Other",
@@ -550,15 +534,47 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjE1OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsICJicm93c2VyX3ZlcnNpb24iOiIxMjIuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.13 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xMyBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
-                    "name": "Firefox",
-                    "version": "122.0"
+                    "name": "Electron",
+                    "version": "25.8.1"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMDIuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "102.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjIuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIyLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMi4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Edge",
+                    "version": "122.0.0"
                 },
                 "os": {
                     "name": "Mac OS X",
-                    "version": "10.15"
+                    "version": "10.15.7"
                 },
                 "device": {
                     "family": "Mac",
@@ -582,15 +598,15 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTcuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjE1OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsICJicm93c2VyX3ZlcnNpb24iOiIxMjIuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
                 "browser": {
-                    "name": "Chrome",
-                    "version": "117.0.0"
+                    "name": "Firefox",
+                    "version": "122.0"
                 },
                 "os": {
                     "name": "Mac OS X",
-                    "version": "10.15.7"
+                    "version": "10.15"
                 },
                 "device": {
                     "family": "Mac",
@@ -598,27 +614,11 @@
                     "model": "Mac"
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTQuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTguMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
-                    "version": "114.0.0"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMDIuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "102.0.0"
+                    "version": "118.0.0"
                 },
                 "os": {
                     "name": "Windows",
@@ -630,27 +630,11 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIxLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Edge",
-                    "version": "121.0.0"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4xIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNi4xIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNi4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Safari",
-                    "version": "17.1"
+                    "version": "16.1"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -678,8 +662,104 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.14 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNCBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4yIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4yIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Safari",
+                    "version": "17.2"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsICJicm93c2VyX3ZlcnNpb24iOiIxMjIuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+                "browser": {
+                    "name": "Firefox",
+                    "version": "122.0"
+                },
+                "os": {
+                    "name": "Ubuntu",
+                    "version": ""
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTcuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "117.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNi41IFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNi41IiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Safari",
+                    "version": "16.5"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTAyLjAuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "102.0.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4xIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Safari",
+                    "version": "17.1"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.16 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNiBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Electron",
                     "version": "25.8.1"
@@ -694,11 +774,123 @@
                     "model": null
                 }
             },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTguMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Chrome",
+                    "version": "118.0.0"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4xLjIgU2FmYXJpLzYwNS4xLjE1IiwgImJyb3dzZXJfdmVyc2lvbiI6IjE3LjEuMiIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
                 "browser": {
                     "name": "Safari",
                     "version": "17.1.2"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIxLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Edge",
+                    "version": "121.0.0"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTE1LjAiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTE1LjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Firefox",
+                    "version": "115.0"
+                },
+                "os": {
+                    "name": "Linux",
+                    "version": ""
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.5.3 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNS4zIENocm9tZS8xMTQuMC41NzM1LjI4OSBFbGVjdHJvbi8yNS44LjEgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIyNS44LjEiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Electron",
+                    "version": "25.8.1"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzExNS4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjExNS4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Firefox",
+                    "version": "115.0"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.16 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNiBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Electron",
+                    "version": "25.8.1"
+                },
+                "os": {
+                    "name": "Mac OS X",
+                    "version": "10.15.7"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNS42LjEgU2FmYXJpLzYwNS4xLjE1IiwgImJyb3dzZXJfdmVyc2lvbiI6IjE1LjYuMSIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
+                "browser": {
+                    "name": "Safari",
+                    "version": "15.6.1"
                 },
                 "os": {
                     "name": "Mac OS X",
@@ -726,11 +918,27 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.16 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNiBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTIyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTIyLjAiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTIyLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
                 "browser": {
-                    "name": "Electron",
-                    "version": "25.8.1"
+                    "name": "Firefox",
+                    "version": "122.0"
+                },
+                "os": {
+                    "name": "Linux",
+                    "version": ""
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTE5LjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjExOS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Edge",
+                    "version": "119.0.0"
                 },
                 "os": {
                     "name": "Windows",
@@ -742,11 +950,11 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTcuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTQuMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
                 "browser": {
                     "name": "Chrome",
-                    "version": "117.0.0"
+                    "version": "114.0.0"
                 },
                 "os": {
                     "name": "Windows",
@@ -756,54 +964,6 @@
                     "family": "Other",
                     "brand": null,
                     "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.5.3 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNS4zIENocm9tZS8xMTQuMC41NzM1LjI4OSBFbGVjdHJvbi8yNS44LjEgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIyNS44LjEiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Electron",
-                    "version": "25.8.1"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.16 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNiBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Electron",
-                    "version": "25.8.1"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4yIFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNy4yIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Safari",
-                    "version": "17.2"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
                 }
             },
             "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0": {
@@ -838,6 +998,22 @@
                     "model": null
                 }
             },
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.4.14 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIG9ic2lkaWFuLzEuNC4xNCBDaHJvbWUvMTE0LjAuNTczNS4yODkgRWxlY3Ryb24vMjUuOC4xIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMjUuOC4xIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+                "browser": {
+                    "name": "Electron",
+                    "version": "25.8.1"
+                },
+                "os": {
+                    "name": "Windows",
+                    "version": "10"
+                },
+                "device": {
+                    "family": "Other",
+                    "brand": null,
+                    "model": null
+                }
+            },
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36": {
                 "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjExOS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
                 "browser": {
@@ -847,214 +1023,6 @@
                 "os": {
                     "name": "Linux",
                     "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTguMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "118.0.0"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTE5LjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjExOS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Edge",
-                    "version": "119.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsICJicm93c2VyX3ZlcnNpb24iOiIxMjIuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Firefox",
-                    "version": "122.0"
-                },
-                "os": {
-                    "name": "Ubuntu",
-                    "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNi41IFNhZmFyaS82MDUuMS4xNSIsICJicm93c2VyX3ZlcnNpb24iOiIxNi41IiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Safari",
-                    "version": "16.5"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IENyT1MgeDg2XzY0IDE0NTQxLjAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMS4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "121.0.0"
-                },
-                "os": {
-                    "name": "Chrome OS",
-                    "version": "14541.0.0"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTE1LjAiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTE1LjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Firefox",
-                    "version": "115.0"
-                },
-                "os": {
-                    "name": "Linux",
-                    "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTIyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTIyLjAiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTIyLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Firefox",
-                    "version": "122.0"
-                },
-                "os": {
-                    "name": "Linux",
-                    "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNS42LjEgU2FmYXJpLzYwNS4xLjE1IiwgImJyb3dzZXJfdmVyc2lvbiI6IjE1LjYuMSIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Safari",
-                    "version": "15.6.1"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzExNS4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjExNS4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Firefox",
-                    "version": "115.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTAyLjAuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "102.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (compatible; AirtableScripting; +undefined/developers/scripting;)": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChjb21wYXRpYmxlOyBBaXJ0YWJsZVNjcmlwdGluZzsgK3VuZGVmaW5lZC9kZXZlbG9wZXJzL3NjcmlwdGluZzspIiwgImJyb3dzZXJfdmVyc2lvbiI6IiIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
-                "browser": {
-                    "name": "Other",
-                    "version": ""
-                },
-                "os": {
-                    "name": "Other",
-                    "version": ""
-                },
-                "device": {
-                    "family": "Other",
-                    "brand": null,
-                    "model": null
-                }
-            },
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIwLjAuMC4wIiwgImJyb3dzZXJfdmVyc2lvbiI6IjEyMC4wLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
-                "browser": {
-                    "name": "Edge",
-                    "version": "120.0.0"
-                },
-                "os": {
-                    "name": "Mac OS X",
-                    "version": "10.15.7"
-                },
-                "device": {
-                    "family": "Mac",
-                    "brand": "Apple",
-                    "model": "Mac"
-                }
-            },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiIsICJicm93c2VyX3ZlcnNpb24iOiIxMTguMC4wIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
-                "browser": {
-                    "name": "Chrome",
-                    "version": "118.0.0"
-                },
-                "os": {
-                    "name": "Windows",
-                    "version": "10"
                 },
                 "device": {
                     "family": "Other",
@@ -1078,15 +1046,31 @@
                     "model": null
                 }
             },
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67": {
-                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTQuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTE0LjAuMTgyMy42NyIsICJicm93c2VyX3ZlcnNpb24iOiIxMTQuMC4xODIzIiwgIm9zX3ZlcnNpb24iOiIxMCIsICJyZWZlcnJlciI6IiIsICJyZWZlcnJpbmdfZG9tYWluIjoiIiwgInJlZmVycmVyX2N1cnJlbnQiOiIiLCAicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwgInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsICJjbGllbnRfYnVpbGRfbnVtYmVyIjoiMjczNTA3IiwgImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjE1OyBydjoxMjEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjEuMCIsICJicm93c2VyX3ZlcnNpb24iOiIxMjEuMCIsICJvc192ZXJzaW9uIjoiMTAiLCAicmVmZXJyZXIiOiIiLCAicmVmZXJyaW5nX2RvbWFpbiI6IiIsICJyZWZlcnJlcl9jdXJyZW50IjoiIiwgInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsICJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCAiY2xpZW50X2J1aWxkX251bWJlciI6IjI3MzUwNyIsICJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==",
                 "browser": {
-                    "name": "Edge",
-                    "version": "114.0.1823"
+                    "name": "Firefox",
+                    "version": "121.0"
                 },
                 "os": {
-                    "name": "Windows",
-                    "version": "10"
+                    "name": "Mac OS X",
+                    "version": "10.15"
+                },
+                "device": {
+                    "family": "Mac",
+                    "brand": "Apple",
+                    "model": "Mac"
+                }
+            },
+            "Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0": {
+                "xtrack": "eyJvcyI6IldpbmRvd3MiLCAiYnJvd3NlciI6IkNocm9tZSIsICJkZXZpY2UiOiIiLCAic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwgImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTIzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTIzLjAiLCAiYnJvd3Nlcl92ZXJzaW9uIjoiMTIzLjAiLCAib3NfdmVyc2lvbiI6IjEwIiwgInJlZmVycmVyIjoiIiwgInJlZmVycmluZ19kb21haW4iOiIiLCAicmVmZXJyZXJfY3VycmVudCI6IiIsICJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCAicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwgImNsaWVudF9idWlsZF9udW1iZXIiOiIyNzM1MDciLCAiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+                "browser": {
+                    "name": "Firefox",
+                    "version": "123.0"
+                },
+                "os": {
+                    "name": "Linux",
+                    "version": ""
                 },
                 "device": {
                     "family": "Other",
